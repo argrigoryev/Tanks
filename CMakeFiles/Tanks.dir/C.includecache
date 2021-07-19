@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aleksandrgrigorev/Desktop/Учеба/Операционные сисемы/Tanks/bullet.h
+tank.h
+/Users/aleksandrgrigorev/Desktop/Учеба/Операционные сисемы/Tanks/tank.h
+
+/Users/aleksandrgrigorev/Desktop/Учеба/Операционные сисемы/Tanks/main.c
+stdio.h
+-
+ncurses.h
+-
+string.h
+-
+pthread.h
+-
+tank.h
+/Users/aleksandrgrigorev/Desktop/Учеба/Операционные сисемы/Tanks/tank.h
+bullet.h
+/Users/aleksandrgrigorev/Desktop/Учеба/Операционные сисемы/Tanks/bullet.h
+network.h
+/Users/aleksandrgrigorev/Desktop/Учеба/Операционные сисемы/Tanks/network.h
+
+/Users/aleksandrgrigorev/Desktop/Учеба/Операционные сисемы/Tanks/network.c
+sys/types.h
+-
+arpa/inet.h
+-
+sys/socket.h
+-
+sys/select.h
+-
+string.h
+-
+unistd.h
+-
+stdio.h
+-
+ncurses.h
+-
+network.h
+/Users/aleksandrgrigorev/Desktop/Учеба/Операционные сисемы/Tanks/network.h
+tank.h
+/Users/aleksandrgrigorev/Desktop/Учеба/Операционные сисемы/Tanks/tank.h
+bullet.h
+/Users/aleksandrgrigorev/Desktop/Учеба/Операционные сисемы/Tanks/bullet.h
+
+/Users/aleksandrgrigorev/Desktop/Учеба/Операционные сисемы/Tanks/network.h
+
+/Users/aleksandrgrigorev/Desktop/Учеба/Операционные сисемы/Tanks/tank.h
+
